@@ -1,4 +1,4 @@
-# Codidos de ejemplo de base de datos
+# Codigos de base de datos
 
 - MySQL
 - Patron singleton
